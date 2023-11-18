@@ -7,6 +7,7 @@ sudo apt install python3-pip
 pip install xcffib
 pip install qtile
 pip install dbus-next
+pip install psutil
 
 # Background image manager
 sudo apt install feh
